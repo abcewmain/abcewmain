@@ -27,8 +27,5 @@ I enjoy experimenting with technology, working on personal projects and learning
 * Abcew Deploy – A self-hosted deployment platform (in development)
 * TechHelp – My own IT support website
 
-📊 GitHub Stats
-
-⸻
 
 Always learning. Always building.
