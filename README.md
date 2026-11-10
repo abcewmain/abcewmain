@@ -1,16 +1,34 @@
-## Hi there 👋
+Hey, I’m Abcew 👋
 
-<!--
-**abcewmain/abcewmain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring IT Specialist | Linux Enthusiast | Developer
 
-Here are some ideas to get you started:
+I’m interested in IT infrastructure, Linux, networking and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, experimenting with servers and learning new technologies.
+
+🛠️ Technologies & Skills
+
+* Languages: HTML, CSS, JavaScript, Python
+* Operating Systems: Arch Linux, Debian
+* Interests: Homelabs, Networking, Web Development, Cybersecurity
+
+🚀 Projects
+
+* TechHelp – My own IT support website
+* Snake Game – A Snake game built with Python
+* 2D Shooter – A small Counter-Strike-inspired game
+
+🎯 Currently Learning
+
+* Linux server administration
+* Docker and containerization
+* Networking and DNS
+* Web hosting and infrastructure
+
+📫 Contact
+
+* Website: TechHelp
+
+⸻
+
+Always learning. Always building.
