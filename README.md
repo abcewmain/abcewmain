@@ -1,33 +1,24 @@
 Hey, I’m Abcew 👋
 
-Aspiring IT Specialist | Linux Enthusiast | Developer
+I’m interested in Linux, programming, networking and building things.
 
-I’m interested in IT infrastructure, Linux, networking and web development.
+I enjoy experimenting with technology, working on personal projects and learning how systems work.
 
-I enjoy building projects, experimenting with servers and learning new technologies.
+🌐 About Me
 
-🛠️ Technologies & Skills
+* 💻 Interested in software development and IT infrastructure
+* 🐧 Daily driving Arch Linux
+* 🖥️ Running my own Debian server
+* 🚀 Currently working on Abcew Deploy
 
-* Languages: HTML, CSS, JavaScript, Python
-* Operating Systems: Arch Linux, Debian
-* Interests: Homelabs, Networking, Web Development, Cybersecurity
+🛠️ Tech Stack
 
 🚀 Projects
 
+* Abcew Deploy – A self-hosted deployment platform (in development)
 * TechHelp – My own IT support website
-* Snake Game – A Snake game built with Python
-* 2D Shooter – A small Counter-Strike-inspired game
 
-🎯 Currently Learning
-
-* Linux server administration
-* Docker and containerization
-* Networking and DNS
-* Web hosting and infrastructure
-
-📫 Contact
-
-* Website: TechHelp
+📊 GitHub Stats
 
 ⸻
 
